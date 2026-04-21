@@ -11,7 +11,7 @@ app.config["SECRET_KEY"] = "sdfgsgsheryjw6qgbdtjr68w3456w3rgwyh"
 CORS(app)
 
 # Get this URL from the Azure Overview page of your API web app
-api_url = "https://cullen-salary-api-c3f5b5fyezdbb8fc.canadacentral-01.azurewebsites.net"  # base url for API endpoints
+api_url = "https://cullen-api-svr-efhje0d7hce5a7d6.canadacentral-01.azurewebsites.net"  # base url for API endpoints
 
 
 # main index page route
